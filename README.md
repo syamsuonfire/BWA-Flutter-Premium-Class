@@ -1,2 +1,2 @@
 # BWA-Flutter-Premium-Class
-This Repository Contains Collection of Premium Flutter Class From BuildWithAngga. Some of them are not yet null safety
+I am trying to learn flutter because i really like this technology. That's why I bought BuildWith Angga's premium classes for me to study and hope that one day I can be accepted as a Flutter Developer in a company.
