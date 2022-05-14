@@ -1,5 +1,8 @@
-# BWA-Flutter-Premium-Class
-I am trying to learn flutter because i really like this technology. That's why I bought BuildWith Angga's premium classes for me to study and hope that one day I can be accepted as a Flutter Developer in a company.
+# Special Thanks to :
+<a href="https://buildwithangga.com/">BuildWithAngga</a> for Courses
+
+# Why Flutter?
+I am trying to learn flutter because i really love this technology, we can create applications that can work on multiple platforms with a single codebase. That's why I bought BuildWith Angga's premium classes for me to study and hope that one day I can be accepted as a Flutter Developer in a company.
 
 ## List Class
 <ol>
