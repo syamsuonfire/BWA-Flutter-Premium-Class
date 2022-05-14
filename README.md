@@ -16,7 +16,7 @@ I am trying to learn flutter because i really love this technology, we can creat
 ## To Started
 <ul>
   <li>Have Flutter SDK</li>
-  <li>Min max SDK must same with project</li>
+  <li>Min max SDK must same with project. If using different flutter sdk, then maybe there will be a bit of challenge and adaptation</li>
   <li>Willingnes</li>
 </ul>
 
@@ -32,6 +32,7 @@ I am trying to learn flutter because i really love this technology, we can creat
   <li>Flutix</li>
   <li>FoodMarket</li>
   <li>Cozy</li>
+  <li>Shamo</li>
   <li>Airplane</li>
 </ul>
 
