@@ -27,18 +27,8 @@ I am trying to learn flutter because i really love this technology, we can creat
   <li>flutter run</li>
 </ul>
 
-<<<<<<< HEAD
 ## Link Download APK
 <a>https://drive.google.com/drive/folders/16gmJ8779HvXenkw3XDM0zzcEkE4W7ZiF?usp=sharing</a>
-=======
-## ScreenShoot
-<ul>
-  <li>Flutix</li>
-  <li>FoodMarket</li>
-  <li>Cozy</li>
-  <li>Shamo</li>
-  <li>Airplane</li>
-</ul>
 
->>>>>>> 104b950d65da99b0b786c29c0d1abe67d1008f63
+
 
