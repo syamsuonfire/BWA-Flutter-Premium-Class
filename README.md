@@ -30,5 +30,14 @@ I am trying to learn flutter because i really love this technology, we can creat
 ## Link Download APK
 <a>https://drive.google.com/drive/folders/16gmJ8779HvXenkw3XDM0zzcEkE4W7ZiF?usp=sharing</a>
 
+## ScreenShoot
+<img src="https://github.com/syamsuonfire/BWA-Flutter-Premium-Class/blob/main/1_bwa_flutix.png?raw=true">
+<img src="https://github.com/syamsuonfire/BWA-Flutter-Premium-Class/blob/main/2_bwa_foodmarket.png?raw=true">
+<img src="https://github.com/syamsuonfire/BWA-Flutter-Premium-Class/blob/main/3_bwa_cozy.png?raw=true">
+<img src="https://github.com/syamsuonfire/BWA-Flutter-Premium-Class/blob/main/4_bwa_shamo.png?raw=true">
+<img src="https://github.com/syamsuonfire/BWA-Flutter-Premium-Class/blob/main/5_bwa_airplane.png?raw=true">
+
+
+
 
 
